@@ -2,6 +2,7 @@
  * This file is part of the Bus Pirate project (http://code.google.com/p/the-bus-pirate/).
  *
  * Written and maintained by the Bus Pirate project and http://dangerousprototypes.com
+ * Modified by jaseg <s@jaseg.de> in 2011.
  *
  * To the extent possible under law, the project has
  * waived all copyright and related or neighboring rights to Bus Pirate. This
