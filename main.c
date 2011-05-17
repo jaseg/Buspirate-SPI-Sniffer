@@ -291,11 +291,11 @@ while ((opt = getopt(argc, argv, "ms:p:e:d:r:")) != -1) {
 				}
 				break;
 			case 2:	// MPI
-				printf("0x%02X(", (uint8_t) buffer[c]);
+				printf("%c", (uint8_t) buffer[c]);
 				new_state=3;
 				break;
 			case 3:	// MPO
-				printf("0x%02X)", (uint8_t) buffer[c]);
+				//printf("0x%02X)", (uint8_t) buffer[c]);
 				new_state=1;
 				break;
 		}
